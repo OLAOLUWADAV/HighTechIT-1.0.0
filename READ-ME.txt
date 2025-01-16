@@ -1,9 +1,9 @@
-  =>  Template Name    : HighTech - IT Solutions Website Template
+  =>  Template Name    : Rebothic Optics - IT Solutions Website 
 
-  =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
+  =>  Template Link    : https://my-portfolio-7fs5.vercel.app//it-solutions-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://my-portfolio-7fs5.vercel.app//license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : David
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://my-portfolio-7fs5.vercel.app/
